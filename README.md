@@ -1,3 +1,7 @@
+<script src="https://gist.github.com/rafszul/d8d1ec074e1bff4f84c5.js"></script>
+
+---
+
 
 [paradiseEdge](https://github.com/weAreThePlayMakers/paradiseEdge) is a repository of graphics and code with a little markup intended as a demo of workflow for production of digital media for the web
 
