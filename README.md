@@ -1,31 +1,40 @@
-<script src="https://gist.github.com/rafszul/d8d1ec074e1bff4f84c5.js"></script>
+paradise-edge-second
+--------------------
+
+is a "sandbox on an empty playground, late in the evening after all the kids went to sleep" 
+
+
+apart from some mess it contains some awesome graphics by [EdgyZiane](https://www.facebook.com/EdgyZiane) which had the pleasure to go through custom made, half automated meat-grinder prepared by myself and which turned Edgy's raster images into interactive by nature vector shapes in an svg format.
+
+the whole point was to try using different methods and hacks for integrating [svg specs](http://www.w3.org/TR/SVG/) and the power that comes with it in game development setting.
+
+here some ideas on gui for character creation workflow necessary for some games and most systems i know and which i would see myself making someday soon 
 
 ---
 
+it is a follow up to paradise-edge-payroll-1st-draft which integrated .svg format with some css hacks:
 
-[paradiseEdge](https://github.com/weAreThePlayMakers/paradiseEdge) is a repository of graphics and code with a little markup intended as a demo of workflow for production of digital media for the web
+[![paradise-edge-payroll-1st-draft](http://i.imgur.com/NwaL3XS.png)](http://codepen.io/rafszul/full/MYXLgp)
 
-![Man hunt down][1]
+---
 
-[MrEdgy Art](https://www.behance.net/Edgyart/) a lead artist is  responsible for the artwork used in the composition and a lead director of [Paradise diary](https://www.facebook.com/ParadiseDiary/)
+list of edited graphics used in both [paradise-edge-second](http://codepen.io/rafszul/full/ab14611f21cfb8d992eb176e74fd7ece/) and [paradise-edge-payroll-1st-draft](http://codepen.io/rafszul/full/MYXLgp/) you can find in [edited-graphics-list-02-md](https://gist.github.com/rafszul/d8d1ec074e1bff4f84c5#file-edited-graphics-list-02-md) 
 
-check out the note from ecceHomo to trace the man and let him speak for himself
+---
 
-or follow the links above
+[![paradise-edge-payroll-1st-draft](http://i.imgur.com/NwaL3XS.png)](http://codepen.io/rafszul/full/MYXLgp) was already a follow up to paradise-edge:
 
-don't forget to take a look at the artwork and subscribe to updates about his promising cyberpunk production
+[![paradise-edge](http://i.imgur.com/HAcouCc.png)](http://codepen.io/rafszul/full/xbqWMg/)
 
-in case you like the graphics and decide to fork the repo please keep in mind I do not own the graphics and you need to contact the creator for any information about the licence under which they were published
+which started it all and boasted:
 
-i strongly recommend forking and modification  only for personal use or in fact not at all
+> paralax.js on top of pretty cool composition with cyberpunk theme created by frenchman from Osaka [Edgy Ziane](https://www.facebook.com/ednane.ziane).
+> 
+> [original composition which i used](https://www.facebook.com/EdgyZiane/photos/a.653434034743280.1073741828.653427504743933/693409510745732/?type=1&permPage=1) comes from web-comic in the making: [Paradise Diary](http://ednaneziane.wix.com/edgyscrawl#!paradise/c1kki). check out his page for more great artwork and comic itself.
+> 
+> i was merely fooling around with pretty graphics.
 
-on the other hand all code is added by [rafszul](https://github.com/rafszul) is licenced under gplv30 with some dependencies in form of adobe open licence which you can find in one of the folders 
-
-all in all you are welcome to copy, modify and distribute the code and i will be very keen on seeing potential mods and addons
-
-
-
-> written by [rafszul](https://github.com/rafszul) + [weAreThePlayMakers](http://wearetheplaymakers.com/) with [StackEdit](https://stackedit.io/)
+A [Pen](http://codepen.io/rafszul/pen/ab14611f21cfb8d992eb176e74fd7ece) by [@rafszul](http://codepen.io/rafszul) on [CodePen](http://codepen.io/).
 
 
-  [1]: https://fbcdn-sphotos-c-a.akamaihd.net/hphotos-ak-xfp1/t31.0-8/s720x720/10535584_693409510745732_4954347513733840764_o.jpg
+> written by [rafszul](https://github.com/rafszul) and [weAreThePlayMakers](http://wearetheplaymakers.com/) with [StackEdit](https://stackedit.io/).
