@@ -1,3 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+	<meta charset="utf-8">
+
+	<title>paradise-edge-second-surge</title>
+
+	<!-- Behavioral Meta Data -->
+	<meta name="apple-mobile-web-app-capable" content="yes">
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+
+	<!-- Styles -->
+	<link rel="stylesheet" type="text/css" href="styles/style.css"/>
+
+</head>
+<body>
+
 <div id="container" class="container">
 		<ul id="scene" class="scene">
 
@@ -11,3 +29,16 @@
 <li class="layer" data-depth="0.35"><img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/73058/comp-002-04-09_cleaned.svg"></li>
 </ul>
 	</div>
+
+	<!-- Scripts -->
+	<script src="scripts/parallax.js"></script>
+	<script>
+
+	// Pretty simple huh?
+	var scene = document.getElementById('scene');
+	var parallax = new Parallax(scene);
+
+	</script>
+
+</body>
+</html>
