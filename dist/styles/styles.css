@@ -1,6 +1,6 @@
 body {
     font-family: monospace;
-    
+
     font-size: 18px;
     background: #05040B;
     color: #05040B;
@@ -10,7 +10,7 @@ img {
     display: block;
     min-width: 100%;
 
-    
+
 }
 
 .container {
